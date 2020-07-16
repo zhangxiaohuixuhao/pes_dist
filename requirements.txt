@@ -1,0 +1,30 @@
+appdirs==1.4.4
+backports.weakref==1.0rc1
+bleach==1.5.0
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+decorator==4.4.2
+Flask==1.1.2
+graphsurgeon @ file:///DATA/zhanghui/TensorRT-6.0.1.5/graphsurgeon/graphsurgeon-0.4.1-py2.py3-none-any.whl
+html5lib==0.9999999
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.2
+Mako==1.1.3
+Markdown==2.2.0
+MarkupSafe==1.1.1
+numpy==1.19.0
+onnx==1.7.0
+Pillow==7.2.0
+protobuf==3.12.2
+pycuda==2019.1.2
+pytools==2020.3.1
+requests==2.24.0
+six==1.15.0
+tensorflow-gpu==1.2.0
+tensorrt @ file:///DATA/zhanghui/TensorRT-6.0.1.5/python/tensorrt-6.0.1.5-cp36-none-linux_x86_64.whl
+typing-extensions==3.7.4.2
+uff @ file:///DATA/zhanghui/TensorRT-6.0.1.5/uff/uff-0.6.5-py2.py3-none-any.whl
+urllib3==1.25.9
+Werkzeug==1.0.1

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf8"?>
+<root>
+	<Cameras>
+		<Camera>
+			<id>rtsp://admin:gzwx2019@192.168.1.233:554</id>
+			<flaskport>5000</flaskport>
+			<localip>192.168.1.4</localip>
+			<rount>cameraA</rount>
+			<alarmpost>http://192.168.1.4:18080/web/alarm/insert</alarmpost>
+			<devicepost>http://192.168.1.4:18080/web/device/insert</devicepost>
+			<deviceget>http://192.168.1.4:18080/web/device/status</deviceget>
+		</Camera>
+	</Cameras>
+</root>
