@@ -22,7 +22,7 @@ pycuda==2019.1.2
 pytools==2020.3.1
 requests==2.24.0
 six==1.15.0
-tensorflow-gpu==1.2.0
+tensorflow-gpu==1.15.4
 tensorrt @ file:///DATA/zhanghui/TensorRT-6.0.1.5/python/tensorrt-6.0.1.5-cp36-none-linux_x86_64.whl
 typing-extensions==3.7.4.2
 uff @ file:///DATA/zhanghui/TensorRT-6.0.1.5/uff/uff-0.6.5-py2.py3-none-any.whl
