@@ -7,7 +7,7 @@ click==7.1.2
 decorator==4.4.2
 Flask==1.1.2
 graphsurgeon @ file:///DATA/zhanghui/TensorRT-6.0.1.5/graphsurgeon/graphsurgeon-0.4.1-py2.py3-none-any.whl
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
