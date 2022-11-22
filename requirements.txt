@@ -16,7 +16,7 @@ Markdown==2.2.0
 MarkupSafe==1.1.1
 numpy==1.19.0
 onnx==1.7.0
-Pillow==7.2.0
+Pillow==9.3.0
 protobuf==3.12.2
 pycuda==2019.1.2
 pytools==2020.3.1
